@@ -1,4 +1,9 @@
 /* Los estilos se aplican a todo el documento */
 body {
-    
+    background-image: linear-gradient(135deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3))
+        url('../assets/imagenes/');
 }
+
+    .social.icon{
+        width: 32px;
+    }
